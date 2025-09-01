@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <title>游戏数据库展示（带筛选）</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+            background: #f9f9f9;
+        }
+
+        h1 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+
+        .card,
+        .cloth {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 10px 0;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        img {
+            max-width: 90%;
+            margin: 5px;
+        }
+
+        .rarity {
+            font-weight: bold;
+        }
+
+        .category {
+            font-style: italic;
+        }
+
+        select {
+            margin: 10px 0;
+            padding: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>👕 衣服列表</h1>
+    <div>
+        <label>时间排序:
+            <input type="radio" name="dateOrder" value="asc"> 正序
+            <input type="radio" name="dateOrder" value="desc" checked> 倒序
+        </label>
+        <label style="margin-left:20px;">排序优先:
+            <input type="radio" name="sortPriority" value="group"> 组优先
+            <input type="radio" name="sortPriority" value="date" checked> 时间优先
+        </label>
+    </div>
+    <div id="groupFilters" style="margin:10px 0; padding:5px; border:1px solid #ccc; background:#fff;">
+        <strong>筛选组:</strong>
+        <!-- 这里动态生成复选框 -->
+    </div>
+    <div id="clothes"></div>
+
+    <script>
+        let allClothes = [];
+        function loadClothes() {
+            fetch('hpma_database.json')
+                .then(response => response.json()).then(data => {
+                    allClothes = data;
+                    renderGroupFilters();  // 先渲染分组复选框
+                    renderClothes();
+                });
+        }
+
+        // ============ 渲染复选框 ============ 
+        function renderGroupFilters() {
+            const groupedTypes = [...new Set(allClothes.map(c => c.type || "未分类"))].sort();
+            const container = document.getElementById("groupFilters");
+
+            // 先放按钮
+            container.innerHTML = `
+                <strong>筛选组:</strong>
+                <button id="toggleSelectAll" style="margin-left:10px;">全不选</button>
+                <br>
+            `;
+
+            // 生成复选框
+            groupedTypes.forEach(type => {
+                const id = "filter-" + type;
+                container.innerHTML += `
+                    <label style="margin-right:10px;margin-top:10px;display:inline-block;">
+                        <input type="checkbox" class="group-filter" value="${type}" checked> ${type}
+                    </label>
+                `;
+            });
+
+            // 给按钮绑定事件
+            const toggleBtn = document.getElementById("toggleSelectAll");
+            toggleBtn.addEventListener("click", () => {
+                const checkboxes = document.querySelectorAll(".group-filter");
+                const allChecked = Array.from(checkboxes).every(cb => cb.checked);
+
+                checkboxes.forEach(cb => cb.checked = !allChecked);
+
+                // 切换按钮文字
+                toggleBtn.textContent = allChecked ? "全选" : "全不选";
+
+                renderClothes();
+            });
+        }
+
+
+        function getSortOptions() {
+            const dateOrder = document.querySelector('input[name="dateOrder"]:checked').value;
+            const sortPriority = document.querySelector('input[name="sortPriority"]:checked').value;
+            return { dateOrder, sortPriority };
+        }
+
+        // ============ 衣服展示 ============ 
+        function renderClothes() {
+            const clothes = allClothes;
+            const { dateOrder, sortPriority } = getSortOptions();
+
+            // 获取勾选的组
+            const selectedGroups = Array.from(document.querySelectorAll(".group-filter:checked"))
+                .map(cb => cb.value);
+
+            function dateCompare(a, b) {
+                const aDate = a.date || "";
+                const bDate = b.date || "";
+                if (aDate === bDate) return 0;
+                if (aDate === "") return 1;
+                if (bDate === "") return -1;
+                return dateOrder === "asc" ? aDate.localeCompare(bDate) : bDate.localeCompare(aDate);
+            }
+
+            // 分组
+            const grouped = {};
+            clothes.forEach(item => {
+                const type = item.type || "未分类";
+                if (!grouped[type]) grouped[type] = [];
+                grouped[type].push(item);
+            });
+
+            const container = document.getElementById("clothes");
+            container.innerHTML = "";
+
+            let sections = [];
+
+            if (sortPriority === "group") {
+                for (const type of Object.keys(grouped).sort()) {
+                    if (!selectedGroups.includes(type)) continue; // 只显示勾选组
+                    const sortedClothes = grouped[type].slice().sort(dateCompare);
+                    sections.push({ type, clothes: sortedClothes });
+                }
+            } else {
+                const sortedAll = clothes.slice().sort(dateCompare);
+                const groupedByType = {};
+                sortedAll.forEach(cloth => {
+                    const t = cloth.type || "未分类";
+                    if (!groupedByType[t]) groupedByType[t] = [];
+                    groupedByType[t].push(cloth);
+                });
+                for (const type of Object.keys(groupedByType)) {
+                    if (!selectedGroups.includes(type)) continue; // 只显示勾选组
+                    sections.push({ type, clothes: groupedByType[type] });
+                }
+            }
+
+            sections.forEach(sectionData => {
+                const section = document.createElement("div");
+                section.innerHTML = `<h2>类型: ${sectionData.type}</h2>`;
+                sectionData.clothes.forEach(cloth => {
+                    const div = document.createElement("div");
+                    div.className = "cloth";
+                    div.innerHTML = `
+                <h3>
+                    ${cloth.name}
+                    <span style="font-size:0.9em;color:#888;">（上线日期: ${cloth.date || "未知"}）</span>
+                </h3>
+                <div>
+                ${cloth.images.map(img => `
+                    <div style="display:inline-block;text-align:center;margin:5px;">
+                        <img src="${img.url}" alt="衣服图">
+                        <div style="font-size:0.85em;color:#666;">${img.name || ""}</div>
+                    </div>
+                `).join("")}
+                </div>
+            `;
+                    section.appendChild(div);
+                });
+                container.appendChild(section);
+            });
+        }
+
+        // 监听控件变化
+        document.addEventListener("change", function (e) {
+            if (e.target.name === "dateOrder" || e.target.name === "sortPriority" || e.target.classList.contains("group-filter")) {
+                renderClothes();
+            }
+        });
+
+        // ...existing code...
+
+        loadClothes();
+    </script>
+</body>
+
+</html>
