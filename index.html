@@ -156,18 +156,14 @@
                     const sortedClothes = grouped[type].slice().sort(dateCompare);
                     sections.push({ type, clothes: sortedClothes });
                 }
-            } else {
+            } else if (sortPriority === "date") {
                 const sortedAll = clothes.slice().sort(dateCompare);
-                const groupedByType = {};
                 sortedAll.forEach(cloth => {
-                    const t = cloth.type || "未分类";
-                    if (!groupedByType[t]) groupedByType[t] = [];
-                    groupedByType[t].push(cloth);
+                    const type = cloth.type || "未分类";
+                    if (selectedGroups.includes(cloth.type)) {
+                        sections.push({ type, clothes: [cloth]});
+                    }
                 });
-                for (const type of Object.keys(groupedByType)) {
-                    if (!selectedGroups.includes(type)) continue; // 只显示勾选组
-                    sections.push({ type, clothes: groupedByType[type] });
-                }
             }
 
             sections.forEach(sectionData => {
