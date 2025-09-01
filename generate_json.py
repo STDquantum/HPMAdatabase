@@ -1,14 +1,21 @@
 import re
 import json
+import os
+import shutil
 
 # 读取文件
-with open("hpma_database.md", "r", encoding="utf-8") as f:
+md_file = "HPMA_database.md"
+with open(md_file, "r", encoding="utf-8") as f:
     content = f.read()
 
 # 按服装名称拆分
 names = content.split("\n### ")[1:]
 
 result = []
+
+# 记录已用文件名，避免重复
+used_names = set()
+assets_folder = "./HPMA_database.assets"
 
 for idx, block in enumerate(names):
     if block[0] == "\n":
@@ -28,12 +35,44 @@ for idx, block in enumerate(names):
     clothes_images = block.split("#### 条漫")[0].strip()
     images_matches = re.findall(r"!\[(.*?)\]\((.*?)\)", clothes_images)
     
-    images = [{"name": m[0], "url": m[1]} for m in images_matches]
+    def rename(caption, old_path, md_content):
+        base_name = re.sub(r'[\/:*?"<>|#]', "_", caption)
+        ext = os.path.splitext(old_path)[1]
+        new_name = base_name + ext
+        
+        # 如果文件名重复，自动加序号
+        counter = 1
+        while new_name in used_names:
+            new_name = f"{base_name}-{counter}{ext}"
+            counter += 1
+            
+        new_path = f"./HPMA_database.assets/{new_name}"
+        
+        # 重命名图片
+        if os.path.exists(old_path):
+            shutil.move(old_path, new_path)
+            print(f"{old_path} -> {new_path}")
+        
+        # 替换 Markdown 内容中的路径
+        md_content = md_content.replace(old_path, new_path)
+        
+        used_names.add(new_name)
+        
+        return md_content, new_path
     
+    images = []
+    for caption, old_path in images_matches:
+        content, new_path = rename(caption, old_path, content)
+        images.append({"name": caption, "url": new_path})
+        
     # 条漫 URL
     comic_matches = block.split("#### 条漫")[-1].strip()
-    
-    comic_urls = re.findall(r"!\[.*?\]\((.+?)\)", comic_matches)[0] if "![" in comic_matches else ""
+    comic_urls = ""
+    if "![" in comic_matches:
+        comic_urls = re.findall(r"!\[.*?\]\((.+?)\)", comic_matches)[0]
+        comic_caption = f"{name}-条漫"
+        content, comic_urls = rename(comic_caption, comic_urls, content)
+        content = content.replace(comic_matches, f"![{comic_caption}]({comic_urls})")
     
     result.append({
         "name": name,
@@ -42,6 +81,10 @@ for idx, block in enumerate(names):
         "images": images,
         "cartoon": comic_urls
     })
+
+# 保存修改后的 Markdown
+with open(md_file, "w", encoding="utf-8") as f:
+    f.write(content)
 
 # 输出 JSON
 with open("hpma_database.json", "w", encoding="utf-8") as f:

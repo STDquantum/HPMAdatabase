@@ -41,7 +41,7 @@
                 "url": "./HPMA_database.assets/愚闹嬉皮·异赏.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "./HPMA_database.assets/愚闹嬉皮-条漫.jpg"
     },
     {
         "name": "雾红纹章",
@@ -114,7 +114,7 @@
         "images": [
             {
                 "name": "假日欢醺",
-                "url": "./HPMA_database.assets/假日欢醺·莓果.jpg"
+                "url": "./HPMA_database.assets/假日欢醺.jpg"
             },
             {
                 "name": "假日欢醺·莓果",
@@ -157,7 +157,7 @@
                 "url": "./HPMA_database.assets/兽爪契约·幻影.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2025-06-26 17_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/兽爪契约-条漫.jpg"
     },
     {
         "name": "族枝",
@@ -189,7 +189,7 @@
                 "url": "./HPMA_database.assets/荒芜骑士·水银.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2025-06-18 18_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/荒芜骑士-条漫.jpg"
     },
     {
         "name": "稚趣牛仔",
@@ -253,7 +253,7 @@
                 "url": "./HPMA_database.assets/仲夏瑰夜行·翡冷翠.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2025-05-05 12_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/仲夏瑰夜行-条漫.jpg"
     },
     {
         "name": "弓吟协奏曲",
@@ -273,7 +273,7 @@
                 "url": "./HPMA_database.assets/弓吟协奏曲·丹响.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2025-04-18 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/弓吟协奏曲-条漫.jpg"
     },
     {
         "name": "林深寻影",
@@ -305,7 +305,7 @@
                 "url": "./HPMA_database.assets/未尽恶作剧·马戏团.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2025-04-03 12_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/未尽恶作剧-条漫.jpg"
     },
     {
         "name": "闲趣花园客",
@@ -345,7 +345,7 @@
                 "url": "./HPMA_database.assets/迷梦香都·梧桐.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2025-03-12 16_33_00.jpg"
+        "cartoon": "./HPMA_database.assets/迷梦香都-条漫.jpg"
     },
     {
         "name": "学院休闲派",
@@ -377,7 +377,7 @@
                 "url": "./HPMA_database.assets/幽恶囚徒·夺魄.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2025-02-23 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/幽恶囚徒-条漫.jpg"
     },
     {
         "name": "巳方丙火",
@@ -425,7 +425,7 @@
                 "url": "./HPMA_database.assets/凰吟凤鸣·异赏.png"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2025-01-31 17_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/凰吟凤鸣-条漫.jpg"
     },
     {
         "name": "旧调邂逅",
@@ -445,7 +445,7 @@
                 "url": "./HPMA_database.assets/旧调邂逅·魂灵.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2025-02-07 16_50_00.jpg"
+        "cartoon": "./HPMA_database.assets/旧调邂逅-条漫.jpg"
     },
     {
         "name": "暖冬曲奇",
@@ -477,7 +477,7 @@
                 "url": "./HPMA_database.assets/光阴收藏家·尘烟.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2025-01-19 13_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/光阴收藏家-条漫.jpg"
     },
     {
         "name": "冬雪粗毡",
@@ -497,7 +497,7 @@
                 "url": "./HPMA_database.assets/冬雪粗毡·欧若拉.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-12-20 17_30_00.jpg"
+        "cartoon": "./HPMA_database.assets/冬雪粗毡-条漫.jpg"
     },
     {
         "name": "叛逆艺术",
@@ -517,7 +517,7 @@
                 "url": "./HPMA_database.assets/叛逆艺术·潮汐.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-11-14 18_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/叛逆艺术-条漫.jpg"
     },
     {
         "name": "就职亮相",
@@ -561,7 +561,7 @@
                 "url": "./HPMA_database.assets/夜骐骸影·流萤.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-11-04 19_10_00.jpg"
+        "cartoon": "./HPMA_database.assets/夜骐骸影-条漫.jpg"
     },
     {
         "name": "无染纤尘",
@@ -581,7 +581,7 @@
                 "url": "./HPMA_database.assets/无染纤尘·锃蓝.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-10-10 18_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/无染纤尘-条漫.jpg"
     },
     {
         "name": "明彩风发",
@@ -625,7 +625,7 @@
                 "url": "./HPMA_database.assets/占卜.png"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-09-20 16_40_00.jpg"
+        "cartoon": "./HPMA_database.assets/学海航迹-条漫.jpg"
     },
     {
         "name": "蓝莓苏打",
@@ -693,7 +693,7 @@
                 "url": "./HPMA_database.assets/璀夜鸢尾梦·异赏.png"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-09-13 17_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/璀夜鸢尾梦-条漫.jpg"
     },
     {
         "name": "蔚蓝随想",
@@ -713,7 +713,7 @@
                 "url": "./HPMA_database.assets/蔚蓝随想·绿茵.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-08-14 20_00_01.jpg"
+        "cartoon": "./HPMA_database.assets/蔚蓝随想-条漫.jpg"
     },
     {
         "name": "沉寂湖影",
@@ -733,7 +733,7 @@
                 "url": "./HPMA_database.assets/沉寂湖影·礁石.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-07-13 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/沉寂湖影-条漫.jpg"
     },
     {
         "name": "糖果菱格",
@@ -777,7 +777,7 @@
                 "url": "./HPMA_database.assets/湖畔聆音·胭红.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-07-02 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/湖畔聆音-条漫.jpg"
     },
     {
         "name": "宴夜同谋",
@@ -797,7 +797,7 @@
                 "url": "./HPMA_database.assets/宴夜同谋·红绒.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-06-23 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/宴夜同谋-条漫.jpg"
     },
     {
         "name": "博金-博克的款待",
@@ -817,7 +817,7 @@
                 "url": "./HPMA_database.assets/博金-博克的款待·绿蚀.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-05-26 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/博金-博克的款待-条漫.jpg"
     },
     {
         "name": "浮沫海歌",
@@ -837,7 +837,7 @@
                 "url": "./HPMA_database.assets/浮沫海歌·深淤.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-05-11 16_30_00.jpg"
+        "cartoon": "./HPMA_database.assets/浮沫海歌-条漫.jpg"
     },
     {
         "name": "抹茶猕猴桃",
@@ -869,7 +869,7 @@
                 "url": "./HPMA_database.assets/摩伦茶光·忧扰.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-04-30 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/摩伦茶光-条漫.jpg"
     },
     {
         "name": "流苏花卉轻语",
@@ -877,8 +877,8 @@
         "type": "作业",
         "images": [
             {
-                "name": "2024-03-28 14_00_00",
-                "url": "./HPMA_database.assets/2024-03-28 14_00_00.jpg"
+                "name": "流苏花卉轻语",
+                "url": "./HPMA_database.assets/流苏花卉轻语.jpg"
             }
         ],
         "cartoon": ""
@@ -921,7 +921,7 @@
                 "url": "./HPMA_database.assets/天才草药学家·沃土.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-03-27 22_30_00.jpg"
+        "cartoon": "./HPMA_database.assets/天才草药学家-条漫.jpg"
     },
     {
         "name": "萌芽季节",
@@ -957,7 +957,7 @@
                 "url": "./HPMA_database.assets/深邃缄默者·异赏.png"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-02-11 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/深邃缄默者-条漫.jpg"
     },
     {
         "name": "绚烂暖意",
@@ -1001,7 +1001,7 @@
                 "url": "./HPMA_database.assets/危夜款待·黎徊.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2023-12-29 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/危夜款待-条漫.jpg"
     },
     {
         "name": "神秘考察",
@@ -1021,7 +1021,7 @@
                 "url": "./HPMA_database.assets/神秘考察·峻苍.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2023-12-08 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/神秘考察-条漫.jpg"
     },
     {
         "name": "炼金巫师的自我修养",
@@ -1125,7 +1125,7 @@
                 "url": "./HPMA_database.assets/异界魅影·深渊.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2023-11-13 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/异界魅影-条漫.jpg"
     },
     {
         "name": "爱心时光",
@@ -1157,7 +1157,7 @@
                 "url": "./HPMA_database.assets/竹意守仁·墨澄.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2023-12-03 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/竹意守仁-条漫.jpg"
     },
     {
         "name": "雅致黑白",
@@ -1177,8 +1177,8 @@
         "type": "转盘",
         "images": [
             {
-                "name": "2023-09-24 19_00_00",
-                "url": "./HPMA_database.assets/2023-09-24 19_00_00.jpg"
+                "name": "记者精神",
+                "url": "./HPMA_database.assets/记者精神.jpg"
             },
             {
                 "name": "记者精神·深肃",
@@ -1189,7 +1189,7 @@
                 "url": "./HPMA_database.assets/记者精神·浅格.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2023-10-09 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/记者精神-条漫.jpg"
     },
     {
         "name": "权力之辉",
@@ -1213,7 +1213,7 @@
                 "url": "./HPMA_database.assets/权力之辉·含翠.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2023-09-11 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/权力之辉-条漫.jpg"
     },
     {
         "name": "自由之风",
@@ -1233,8 +1233,8 @@
         "type": "转盘",
         "images": [
             {
-                "name": "2023-08-02 20_38_00",
-                "url": "./HPMA_database.assets/2023-08-02 20_38_00.jpg"
+                "name": "夜幕年代",
+                "url": "./HPMA_database.assets/夜幕年代.jpg"
             },
             {
                 "name": "夜幕年代·星灰",
@@ -1289,7 +1289,7 @@
                 "url": "./HPMA_database.assets/宴会风雅·冷袭.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2023-07-17 18_30_00.jpg"
+        "cartoon": "./HPMA_database.assets/宴会风雅-条漫.jpg"
     },
     {
         "name": "灵魂荒野",
@@ -1321,7 +1321,7 @@
                 "url": "./HPMA_database.assets/银白序章·夜.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2023-06-16 12_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/银白序章-条漫.jpg"
     },
     {
         "name": "炎炎简约",
@@ -1353,7 +1353,7 @@
                 "url": "./HPMA_database.assets/烘焙窈窕·深暗.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2023-05-14 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/烘焙窈窕_庄重邂逅-条漫.jpg"
     },
     {
         "name": "微光之猎",
@@ -1373,7 +1373,7 @@
                 "url": "./HPMA_database.assets/微光之猎·潜匿.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2023-05-13 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/微光之猎-条漫.jpg"
     },
     {
         "name": "古老狂想",
@@ -1393,7 +1393,7 @@
                 "url": "./HPMA_database.assets/古老狂想·石英.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2023-04-07 13_00_01.jpg"
+        "cartoon": "./HPMA_database.assets/古老狂想-条漫.jpg"
     },
     {
         "name": "春日逸走",
@@ -1425,7 +1425,7 @@
                 "url": "./HPMA_database.assets/青柳濛雨·稚.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2023-04-06 18_00_02.jpg"
+        "cartoon": "./HPMA_database.assets/青柳濛雨-条漫.jpg"
     },
     {
         "name": "补丁牛仔",
@@ -1549,7 +1549,7 @@
                 "url": "./HPMA_database.assets/找球高手·闪电-斯莱特林_找球高手·风暴-斯莱特林.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2023-10-15 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/找球高手-条漫.jpg"
     },
     {
         "name": "泡泡豆荚",
@@ -1569,7 +1569,7 @@
                 "url": "./HPMA_database.assets/泡泡豆荚·雪芽.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/2024-02-25 14_00_00.jpg"
+        "cartoon": "./HPMA_database.assets/泡泡豆荚-条漫.jpg"
     },
     {
         "name": "星辰之渊",
@@ -1579,6 +1579,26 @@
             {
                 "name": "星辰之渊",
                 "url": "./HPMA_database.assets/星辰之渊.jpg"
+            }
+        ],
+        "cartoon": ""
+    },
+    {
+        "name": "命运窥视者",
+        "date": "2025-09-04",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "命运窥视者",
+                "url": "./HPMA_database.assets/命运窥视者.jpg"
+            },
+            {
+                "name": "命运窥视者·灵氛",
+                "url": "./HPMA_database.assets/命运窥视者·灵氛.jpg"
+            },
+            {
+                "name": "命运窥视者·寂林",
+                "url": "./HPMA_database.assets/命运窥视者·寂林.jpg"
             }
         ],
         "cartoon": ""
