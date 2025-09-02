@@ -32,6 +32,18 @@ for idx, block in enumerate(names):
     type_match = re.search(r"#### 类型\n\n(.+?)\n", block)
     type_ = type_match.group(1).strip() if type_match else ""
     
+    others_images = []
+    others_content = ""
+    if "#### 其他" in block:
+        others = block.split("#### 其他")[1].strip()
+        others_images = re.findall(r"!\[(.*?)\]\((.*?)\)", others)
+        others_images = [{"name": m[0], "url": m[1]} for m in others_images]
+        others_content = others.split('\n\n')[0]
+        if "![" in others_content:
+            others_content = ""
+        
+    block = block.split("#### 其他")[0].strip()
+    
     clothes_images = block.split("#### 条漫")[0].strip()
     images_matches = re.findall(r"!\[(.*?)\]\((.*?)\)", clothes_images)
     
@@ -79,7 +91,11 @@ for idx, block in enumerate(names):
         "date": date,
         "type": type_,
         "images": images,
-        "cartoon": comic_urls
+        "cartoon": comic_urls,
+        "others": {
+            "content": others_content,
+            "images": others_images
+        }
     })
 
 # 保存修改后的 Markdown

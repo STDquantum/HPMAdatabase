@@ -17,7 +17,11 @@
                 "url": "./HPMA_database.assets/植语轻诉·曼陀罗.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "愚闹嬉皮",
@@ -41,7 +45,11 @@
                 "url": "./HPMA_database.assets/愚闹嬉皮·异赏.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/愚闹嬉皮-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/愚闹嬉皮-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "雾红纹章",
@@ -53,7 +61,11 @@
                 "url": "./HPMA_database.assets/雾红纹章.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "破咒之触",
@@ -73,7 +85,11 @@
                 "url": "./HPMA_database.assets/破咒之触·隐焰.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "禁忌黑糖",
@@ -85,7 +101,11 @@
                 "url": "./HPMA_database.assets/禁忌黑糖.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "双面幻影",
@@ -105,7 +125,11 @@
                 "url": "./HPMA_database.assets/双面幻影·阳火.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "假日欢醺",
@@ -125,7 +149,11 @@
                 "url": "./HPMA_database.assets/假日欢醺·葡萄.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "丁香雨",
@@ -137,7 +165,11 @@
                 "url": "./HPMA_database.assets/丁香雨.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "兽爪契约",
@@ -157,7 +189,11 @@
                 "url": "./HPMA_database.assets/兽爪契约·幻影.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/兽爪契约-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/兽爪契约-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "族枝",
@@ -169,7 +205,11 @@
                 "url": "./HPMA_database.assets/族枝.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "荒芜骑士",
@@ -189,7 +229,11 @@
                 "url": "./HPMA_database.assets/荒芜骑士·水银.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/荒芜骑士-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/荒芜骑士-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "稚趣牛仔",
@@ -201,7 +245,11 @@
                 "url": "./HPMA_database.assets/稚趣牛仔.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "茶屿留香",
@@ -221,7 +269,11 @@
                 "url": "./HPMA_database.assets/茶屿留香·海藻.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "花行春日",
@@ -233,7 +285,11 @@
                 "url": "./HPMA_database.assets/花行春日.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "仲夏瑰夜行",
@@ -253,7 +309,11 @@
                 "url": "./HPMA_database.assets/仲夏瑰夜行·翡冷翠.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/仲夏瑰夜行-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/仲夏瑰夜行-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "弓吟协奏曲",
@@ -273,7 +333,11 @@
                 "url": "./HPMA_database.assets/弓吟协奏曲·丹响.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/弓吟协奏曲-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/弓吟协奏曲-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "林深寻影",
@@ -285,7 +349,11 @@
                 "url": "./HPMA_database.assets/林深寻影.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "未尽恶作剧",
@@ -305,7 +373,11 @@
                 "url": "./HPMA_database.assets/未尽恶作剧·马戏团.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/未尽恶作剧-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/未尽恶作剧-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "闲趣花园客",
@@ -325,7 +397,11 @@
                 "url": "./HPMA_database.assets/闲趣花园客·金盏.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "迷梦香都",
@@ -345,7 +421,11 @@
                 "url": "./HPMA_database.assets/迷梦香都·梧桐.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/迷梦香都-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/迷梦香都-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "学院休闲派",
@@ -357,7 +437,11 @@
                 "url": "./HPMA_database.assets/学院休闲派.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "幽恶囚徒",
@@ -377,7 +461,11 @@
                 "url": "./HPMA_database.assets/幽恶囚徒·夺魄.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/幽恶囚徒-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/幽恶囚徒-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "巳方丙火",
@@ -389,7 +477,11 @@
                 "url": "./HPMA_database.assets/巳方丙火.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "荆棘嗣裔",
@@ -401,7 +493,11 @@
                 "url": "./HPMA_database.assets/荆棘嗣裔.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "凰吟凤鸣",
@@ -425,7 +521,11 @@
                 "url": "./HPMA_database.assets/凰吟凤鸣·异赏.png"
             }
         ],
-        "cartoon": "./HPMA_database.assets/凰吟凤鸣-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/凰吟凤鸣-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "旧调邂逅",
@@ -445,7 +545,11 @@
                 "url": "./HPMA_database.assets/旧调邂逅·魂灵.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/旧调邂逅-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/旧调邂逅-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "暖冬曲奇",
@@ -457,7 +561,11 @@
                 "url": "./HPMA_database.assets/暖冬曲奇.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "光阴收藏家",
@@ -477,7 +585,11 @@
                 "url": "./HPMA_database.assets/光阴收藏家·尘烟.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/光阴收藏家-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/光阴收藏家-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "冬雪粗毡",
@@ -497,7 +609,11 @@
                 "url": "./HPMA_database.assets/冬雪粗毡·欧若拉.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/冬雪粗毡-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/冬雪粗毡-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "叛逆艺术",
@@ -517,7 +633,11 @@
                 "url": "./HPMA_database.assets/叛逆艺术·潮汐.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/叛逆艺术-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/叛逆艺术-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "就职亮相",
@@ -529,7 +649,11 @@
                 "url": "./HPMA_database.assets/就职亮相.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "糖心南瓜",
@@ -541,7 +665,11 @@
                 "url": "./HPMA_database.assets/糖心南瓜.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "夜骐骸影",
@@ -561,7 +689,11 @@
                 "url": "./HPMA_database.assets/夜骐骸影·流萤.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/夜骐骸影-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/夜骐骸影-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "无染纤尘",
@@ -581,7 +713,11 @@
                 "url": "./HPMA_database.assets/无染纤尘·锃蓝.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/无染纤尘-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/无染纤尘-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "明彩风发",
@@ -593,7 +729,11 @@
                 "url": "./HPMA_database.assets/明彩风发.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "学海航迹",
@@ -625,7 +765,11 @@
                 "url": "./HPMA_database.assets/占卜.png"
             }
         ],
-        "cartoon": "./HPMA_database.assets/学海航迹-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/学海航迹-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "蓝莓苏打",
@@ -637,7 +781,11 @@
                 "url": "./HPMA_database.assets/蓝莓苏打.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "和光同尘",
@@ -657,7 +805,11 @@
                 "url": "./HPMA_database.assets/和光同尘·云端.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "蒲绒绒歌颂",
@@ -669,7 +821,11 @@
                 "url": "./HPMA_database.assets/蒲绒绒歌颂.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "璀夜鸢尾梦",
@@ -693,7 +849,11 @@
                 "url": "./HPMA_database.assets/璀夜鸢尾梦·异赏.png"
             }
         ],
-        "cartoon": "./HPMA_database.assets/璀夜鸢尾梦-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/璀夜鸢尾梦-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "蔚蓝随想",
@@ -713,7 +873,11 @@
                 "url": "./HPMA_database.assets/蔚蓝随想·绿茵.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/蔚蓝随想-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/蔚蓝随想-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "沉寂湖影",
@@ -733,7 +897,11 @@
                 "url": "./HPMA_database.assets/沉寂湖影·礁石.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/沉寂湖影-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/沉寂湖影-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "糖果菱格",
@@ -745,7 +913,11 @@
                 "url": "./HPMA_database.assets/糖果菱格.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "出类拔萃的草药学家",
@@ -757,7 +929,11 @@
                 "url": "./HPMA_database.assets/出类拔萃的草药学家.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "湖畔聆音",
@@ -777,7 +953,11 @@
                 "url": "./HPMA_database.assets/湖畔聆音·胭红.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/湖畔聆音-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/湖畔聆音-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "宴夜同谋",
@@ -797,7 +977,11 @@
                 "url": "./HPMA_database.assets/宴夜同谋·红绒.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/宴夜同谋-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/宴夜同谋-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "博金-博克的款待",
@@ -817,7 +1001,11 @@
                 "url": "./HPMA_database.assets/博金-博克的款待·绿蚀.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/博金-博克的款待-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/博金-博克的款待-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "浮沫海歌",
@@ -837,7 +1025,11 @@
                 "url": "./HPMA_database.assets/浮沫海歌·深淤.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/浮沫海歌-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/浮沫海歌-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "抹茶猕猴桃",
@@ -849,7 +1041,11 @@
                 "url": "./HPMA_database.assets/抹茶猕猴桃.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "摩伦茶光",
@@ -869,7 +1065,11 @@
                 "url": "./HPMA_database.assets/摩伦茶光·忧扰.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/摩伦茶光-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/摩伦茶光-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "流苏花卉轻语",
@@ -881,7 +1081,11 @@
                 "url": "./HPMA_database.assets/流苏花卉轻语.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "翡翠校长女士/灰影魔药大师",
@@ -901,7 +1105,11 @@
                 "url": "./HPMA_database.assets/翡翠校长女士·魅影.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "天才草药学家",
@@ -921,7 +1129,11 @@
                 "url": "./HPMA_database.assets/天才草药学家·沃土.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/天才草药学家-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/天才草药学家-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "萌芽季节",
@@ -933,7 +1145,11 @@
                 "url": "./HPMA_database.assets/萌芽季节.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "深邃缄默者",
@@ -957,7 +1173,11 @@
                 "url": "./HPMA_database.assets/深邃缄默者·异赏.png"
             }
         ],
-        "cartoon": "./HPMA_database.assets/深邃缄默者-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/深邃缄默者-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "绚烂暖意",
@@ -969,7 +1189,11 @@
                 "url": "./HPMA_database.assets/绚烂暖意.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "暖与柔之歌",
@@ -981,7 +1205,11 @@
                 "url": "./HPMA_database.assets/暖与柔之歌.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "危夜款待",
@@ -1001,7 +1229,11 @@
                 "url": "./HPMA_database.assets/危夜款待·黎徊.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/危夜款待-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/危夜款待-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "神秘考察",
@@ -1021,7 +1253,11 @@
                 "url": "./HPMA_database.assets/神秘考察·峻苍.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/神秘考察-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/神秘考察-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "炼金巫师的自我修养",
@@ -1033,7 +1269,11 @@
                 "url": "./HPMA_database.assets/炼金巫师的自我修养.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "狂想牛仔",
@@ -1045,7 +1285,11 @@
                 "url": "./HPMA_database.assets/狂想牛仔.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "寒冬之温",
@@ -1057,7 +1301,11 @@
                 "url": "./HPMA_database.assets/寒冬之温.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "蔚蓝幻梦",
@@ -1069,7 +1317,11 @@
                 "url": "./HPMA_database.assets/蔚蓝幻梦.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "风雨无阻",
@@ -1081,7 +1333,11 @@
                 "url": "./HPMA_database.assets/风雨无阻.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "暗黑玫瑰",
@@ -1093,7 +1349,11 @@
                 "url": "./HPMA_database.assets/暗黑玫瑰.png"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "精致洗练",
@@ -1105,7 +1365,11 @@
                 "url": "./HPMA_database.assets/精致洗练.png"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "异界魅影",
@@ -1125,7 +1389,11 @@
                 "url": "./HPMA_database.assets/异界魅影·深渊.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/异界魅影-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/异界魅影-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "爱心时光",
@@ -1137,7 +1405,11 @@
                 "url": "./HPMA_database.assets/爱心时光.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "竹意守仁",
@@ -1157,7 +1429,11 @@
                 "url": "./HPMA_database.assets/竹意守仁·墨澄.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/竹意守仁-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/竹意守仁-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "雅致黑白",
@@ -1169,7 +1445,11 @@
                 "url": "./HPMA_database.assets/雅致黑白.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "记者精神",
@@ -1189,7 +1469,11 @@
                 "url": "./HPMA_database.assets/记者精神·浅格.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/记者精神-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/记者精神-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "权力之辉",
@@ -1213,7 +1497,11 @@
                 "url": "./HPMA_database.assets/权力之辉·含翠.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/权力之辉-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/权力之辉-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "自由之风",
@@ -1225,7 +1513,11 @@
                 "url": "./HPMA_database.assets/自由之风.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "夜幕年代",
@@ -1245,7 +1537,11 @@
                 "url": "./HPMA_database.assets/夜幕年代·霓绚.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "闲暇如常",
@@ -1257,7 +1553,11 @@
                 "url": "./HPMA_database.assets/闲暇如常.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "巫师侦探",
@@ -1269,7 +1569,11 @@
                 "url": "./HPMA_database.assets/巫师侦探.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "宴会风雅",
@@ -1289,7 +1593,11 @@
                 "url": "./HPMA_database.assets/宴会风雅·冷袭.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/宴会风雅-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/宴会风雅-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "灵魂荒野",
@@ -1301,7 +1609,11 @@
                 "url": "./HPMA_database.assets/灵魂荒野.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "银白序章",
@@ -1321,7 +1633,11 @@
                 "url": "./HPMA_database.assets/银白序章·夜.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/银白序章-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/银白序章-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "炎炎简约",
@@ -1333,7 +1649,11 @@
                 "url": "./HPMA_database.assets/炎炎简约.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "烘焙窈窕/庄重邂逅",
@@ -1353,7 +1673,11 @@
                 "url": "./HPMA_database.assets/烘焙窈窕·深暗.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/烘焙窈窕_庄重邂逅-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/烘焙窈窕_庄重邂逅-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "微光之猎",
@@ -1373,7 +1697,11 @@
                 "url": "./HPMA_database.assets/微光之猎·潜匿.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/微光之猎-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/微光之猎-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "古老狂想",
@@ -1393,7 +1721,11 @@
                 "url": "./HPMA_database.assets/古老狂想·石英.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/古老狂想-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/古老狂想-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "春日逸走",
@@ -1405,7 +1737,11 @@
                 "url": "./HPMA_database.assets/春日逸走.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "青柳濛雨",
@@ -1425,7 +1761,11 @@
                 "url": "./HPMA_database.assets/青柳濛雨·稚.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/青柳濛雨-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/青柳濛雨-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "补丁牛仔",
@@ -1437,7 +1777,11 @@
                 "url": "./HPMA_database.assets/补丁牛仔.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "傲罗法则",
@@ -1457,7 +1801,11 @@
                 "url": "./HPMA_database.assets/傲罗法则·判之决.png"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "街头风尚",
@@ -1477,7 +1825,11 @@
                 "url": "./HPMA_database.assets/街头风尚·驼绒.png"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "冬巡鎏金",
@@ -1497,7 +1849,11 @@
                 "url": "./HPMA_database.assets/冬巡鎏金·暖咖.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "长夏邀约",
@@ -1509,7 +1865,11 @@
                 "url": "./HPMA_database.assets/长夏邀约.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "格子奶泡",
@@ -1521,7 +1881,11 @@
                 "url": "./HPMA_database.assets/格子奶泡.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "找球高手",
@@ -1549,7 +1913,11 @@
                 "url": "./HPMA_database.assets/找球高手·闪电-斯莱特林_找球高手·风暴-斯莱特林.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/找球高手-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/找球高手-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "泡泡豆荚",
@@ -1569,7 +1937,11 @@
                 "url": "./HPMA_database.assets/泡泡豆荚·雪芽.jpg"
             }
         ],
-        "cartoon": "./HPMA_database.assets/泡泡豆荚-条漫.jpg"
+        "cartoon": "./HPMA_database.assets/泡泡豆荚-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "星辰之渊",
@@ -1581,7 +1953,11 @@
                 "url": "./HPMA_database.assets/星辰之渊.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     },
     {
         "name": "命运窥视者",
@@ -1601,6 +1977,1778 @@
                 "url": "./HPMA_database.assets/命运窥视者·寂林.jpg"
             }
         ],
-        "cartoon": ""
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "绿绒回忆",
+        "date": "2023-04-12",
+        "type": "星石转盘",
+        "images": [
+            {
+                "name": "绿绒回忆",
+                "url": "./HPMA_database.assets/绿绒回忆.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "曜石密令",
+        "date": "2023-03-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "曜石密令",
+                "url": "./HPMA_database.assets/曜石密令.jpg"
+            },
+            {
+                "name": "曜石密令·寂林",
+                "url": "./HPMA_database.assets/曜石密令·寂林.jpg"
+            },
+            {
+                "name": "曜石密令·静夜",
+                "url": "./HPMA_database.assets/曜石密令·静夜.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/曜石密令-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "高堡孤影",
+        "date": "2023-03-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "高堡孤影",
+                "url": "./HPMA_database.assets/高堡孤影.jpg"
+            },
+            {
+                "name": "高堡孤影·雪",
+                "url": "./HPMA_database.assets/高堡孤影·雪.jpg"
+            },
+            {
+                "name": "高堡孤影·霞",
+                "url": "./HPMA_database.assets/高堡孤影·霞.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "三色合奏",
+        "date": "2023-03-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "三色合奏",
+                "url": "./HPMA_database.assets/三色合奏.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "玩转自由",
+        "date": "2023-02-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "玩转自由",
+                "url": "./HPMA_database.assets/玩转自由.jpg"
+            },
+            {
+                "name": "玩转自由·追电",
+                "url": "./HPMA_database.assets/玩转自由·追电.jpg"
+            },
+            {
+                "name": "玩转自由·逐金",
+                "url": "./HPMA_database.assets/玩转自由·逐金.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/玩转自由-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "不渝之爱",
+        "date": "2023-02-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "不渝之爱",
+                "url": "./HPMA_database.assets/不渝之爱.jpg"
+            },
+            {
+                "name": "不渝之爱·黑天鹅",
+                "url": "./HPMA_database.assets/不渝之爱·黑天鹅.jpg"
+            },
+            {
+                "name": "不渝之爱·知更鸟",
+                "url": "./HPMA_database.assets/不渝之爱·知更鸟.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/不渝之爱-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "羊绒森林",
+        "date": "2023-02-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "羊绒森林",
+                "url": "./HPMA_database.assets/羊绒森林.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "祥云瑞雪",
+        "date": "2023-01-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "祥云瑞雪",
+                "url": "./HPMA_database.assets/祥云瑞雪.jpg"
+            },
+            {
+                "name": "祥云瑞雪·皓空",
+                "url": "./HPMA_database.assets/祥云瑞雪·皓空.jpg"
+            },
+            {
+                "name": "祥云瑞雪·皓空",
+                "url": "./HPMA_database.assets/祥云瑞雪·皓空-1.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/祥云瑞雪-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "魔法盛宴",
+        "date": "2023-01-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "魔法盛宴",
+                "url": "./HPMA_database.assets/魔法盛宴.jpg"
+            },
+            {
+                "name": "魔法盛宴·甜",
+                "url": "./HPMA_database.assets/魔法盛宴·甜.jpg"
+            },
+            {
+                "name": "魔法盛宴·辛",
+                "url": "./HPMA_database.assets/魔法盛宴·辛.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/魔法盛宴-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "纯白思念",
+        "date": "2023-01-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "纯白思念",
+                "url": "./HPMA_database.assets/纯白思念.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "海底咏者",
+        "date": "2022-12-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "海底咏者",
+                "url": "./HPMA_database.assets/海底咏者.jpg"
+            },
+            {
+                "name": "海底咏者·夕波",
+                "url": "./HPMA_database.assets/海底咏者·夕波.jpg"
+            },
+            {
+                "name": "海底咏者·星潮",
+                "url": "./HPMA_database.assets/海底咏者·星潮.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/海底咏者-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "与鸮同栖",
+        "date": "2022-12-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "与鸮同栖",
+                "url": "./HPMA_database.assets/与鸮同栖.jpg"
+            },
+            {
+                "name": "与鸮同栖·银羽",
+                "url": "./HPMA_database.assets/与鸮同栖·银羽.jpg"
+            },
+            {
+                "name": "与鸮同栖·冰爪",
+                "url": "./HPMA_database.assets/与鸮同栖·冰爪.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/与鸮同栖-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "圣诞牛仔",
+        "date": "2022-12-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "圣诞牛仔",
+                "url": "./HPMA_database.assets/圣诞牛仔.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "探险旅程",
+        "date": "2022-11-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "探险旅程",
+                "url": "./HPMA_database.assets/探险旅程.jpg"
+            },
+            {
+                "name": "探险旅程·林",
+                "url": "./HPMA_database.assets/探险旅程·林.jpg"
+            },
+            {
+                "name": "探险旅程·夜",
+                "url": "./HPMA_database.assets/探险旅程·夜.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/探险旅程-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "茶语呢喃",
+        "date": "2022-11-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "茶语呢喃",
+                "url": "./HPMA_database.assets/茶语呢喃.jpg"
+            },
+            {
+                "name": "茶语呢喃·浮叶",
+                "url": "./HPMA_database.assets/茶语呢喃·浮叶.jpg"
+            },
+            {
+                "name": "茶语呢喃·沉雪",
+                "url": "./HPMA_database.assets/茶语呢喃·沉雪.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/茶语呢喃-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "怪诞玩偶",
+        "date": "2022-11-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "怪诞玩偶",
+                "url": "./HPMA_database.assets/怪诞玩偶.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "公路骑士",
+        "date": "2022-10-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "公路骑士",
+                "url": "./HPMA_database.assets/公路骑士.jpg"
+            },
+            {
+                "name": "公路骑士·热忱",
+                "url": "./HPMA_database.assets/公路骑士·热忱.jpg"
+            },
+            {
+                "name": "公路骑士·严谨",
+                "url": "./HPMA_database.assets/公路骑士·严谨.jpg"
+            },
+            {
+                "name": "公路骑士·薄荷白",
+                "url": "./HPMA_database.assets/公路骑士·薄荷白.jpg"
+            },
+            {
+                "name": "公路骑士·雪宝黄",
+                "url": "./HPMA_database.assets/公路骑士·雪宝黄.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/公路骑士-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "银星之上",
+        "date": "2022-10-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "银星之上",
+                "url": "./HPMA_database.assets/银星之上.jpg"
+            },
+            {
+                "name": "银星之上·云烟",
+                "url": "./HPMA_database.assets/银星之上·云烟.jpg"
+            },
+            {
+                "name": "银星之上·深邃",
+                "url": "./HPMA_database.assets/银星之上·深邃.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/银星之上-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "深秋纪事",
+        "date": "2022-10-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "深秋纪事",
+                "url": "./HPMA_database.assets/深秋纪事.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "追忆之境",
+        "date": "2022-09-21",
+        "type": "免费赠送",
+        "images": [
+            {
+                "name": "追忆之境",
+                "url": "./HPMA_database.assets/追忆之境.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "异色格象",
+        "date": "2022-09-09",
+        "type": "周年庆免费服装",
+        "images": [
+            {
+                "name": "异色格象",
+                "url": "./HPMA_database.assets/异色格象.jpg"
+            },
+            {
+                "name": "异色格象·影",
+                "url": "./HPMA_database.assets/异色格象·影.jpg"
+            },
+            {
+                "name": "异色格象·森",
+                "url": "./HPMA_database.assets/异色格象·森.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/异色格象-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "隐秘星空",
+        "date": "2022-09-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "隐秘星空",
+                "url": "./HPMA_database.assets/隐秘星空.jpg"
+            },
+            {
+                "name": "隐秘星空·白",
+                "url": "./HPMA_database.assets/隐秘星空·白.jpg"
+            },
+            {
+                "name": "隐秘星空·黑",
+                "url": "./HPMA_database.assets/隐秘星空·黑.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/隐秘星空-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "黑暗之息",
+        "date": "2022-09-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "黑暗之息",
+                "url": "./HPMA_database.assets/黑暗之息.jpg"
+            },
+            {
+                "name": "黑暗之息·幽",
+                "url": "./HPMA_database.assets/黑暗之息·幽.jpg"
+            },
+            {
+                "name": "黑暗之息·礼",
+                "url": "./HPMA_database.assets/黑暗之息·礼.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/黑暗之息-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "枫林之约",
+        "date": "2022-09-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "枫林之约",
+                "url": "./HPMA_database.assets/枫林之约.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "未来预言",
+        "date": "2022-08-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "未来预言",
+                "url": "./HPMA_database.assets/未来预言.jpg"
+            },
+            {
+                "name": "未来预言·紫",
+                "url": "./HPMA_database.assets/未来预言·紫.jpg"
+            },
+            {
+                "name": "未来预言·绿",
+                "url": "./HPMA_database.assets/未来预言·绿.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/未来预言-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": [
+                {
+                    "name": "未来预言-插画",
+                    "url": "./HPMA_database.assets/未来预言-插画.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "name": "摇滚之夜",
+        "date": "2022-08-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "摇滚之夜",
+                "url": "./HPMA_database.assets/摇滚之夜.jpg"
+            },
+            {
+                "name": "摇滚之夜·格",
+                "url": "./HPMA_database.assets/摇滚之夜·格.jpg"
+            },
+            {
+                "name": "摇滚之夜·斑",
+                "url": "./HPMA_database.assets/摇滚之夜·斑.jpg"
+            },
+            {
+                "name": "摇滚之夜·白",
+                "url": "./HPMA_database.assets/摇滚之夜·白.png"
+            },
+            {
+                "name": "摇滚之夜·纹",
+                "url": "./HPMA_database.assets/摇滚之夜·纹.png"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/摇滚之夜-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": [
+                {
+                    "name": "摇滚之夜-插画",
+                    "url": "./HPMA_database.assets/摇滚之夜-插画.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "name": "校园留影",
+        "date": "2022-08-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "校园留影",
+                "url": "./HPMA_database.assets/校园留影.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "晴空麦浪",
+        "date": "2022-06-22",
+        "type": "直售",
+        "images": [
+            {
+                "name": "晴空麦浪",
+                "url": "./HPMA_database.assets/晴空麦浪.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "美好定格",
+        "date": "2022-07-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "美好定格",
+                "url": "./HPMA_database.assets/美好定格.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "抒情韵调",
+        "date": "2022-07-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "抒情韵调",
+                "url": "./HPMA_database.assets/抒情韵调.jpg"
+            },
+            {
+                "name": "抒情韵调·蓝",
+                "url": "./HPMA_database.assets/抒情韵调·蓝.png"
+            },
+            {
+                "name": "抒情韵调·黑",
+                "url": "./HPMA_database.assets/抒情韵调·黑.png"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/抒情韵调-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": [
+                {
+                    "name": "抒情韵调-插画",
+                    "url": "./HPMA_database.assets/抒情韵调-插画.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "name": "喧嚣年代",
+        "date": "2022-07-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "喧嚣年代",
+                "url": "./HPMA_database.assets/喧嚣年代.jpg"
+            },
+            {
+                "name": "喧嚣年代·绿",
+                "url": "./HPMA_database.assets/喧嚣年代·绿.png"
+            },
+            {
+                "name": "喧嚣年代·白",
+                "url": "./HPMA_database.assets/喧嚣年代·白.png"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/喧嚣年代-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": [
+                {
+                    "name": "喧嚣年代-插画",
+                    "url": "./HPMA_database.assets/喧嚣年代-插画.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "name": "美好定格",
+        "date": "2022-07-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "美好定格",
+                "url": "./HPMA_database.assets/美好定格-1.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "黑龙驯养者",
+        "date": "2022-06-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "黑龙驯养者",
+                "url": "./HPMA_database.assets/黑龙驯养者.jpg"
+            },
+            {
+                "name": "黑龙驯养者·绿",
+                "url": "./HPMA_database.assets/黑龙驯养者·绿.jpg"
+            },
+            {
+                "name": "黑龙驯养者·褐",
+                "url": "./HPMA_database.assets/黑龙驯养者·褐.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/黑龙驯养者-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "蜜糖之味",
+        "date": "2022-06-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "蜜糖之味",
+                "url": "./HPMA_database.assets/蜜糖之味.jpg"
+            },
+            {
+                "name": "蜜糖之味·甜",
+                "url": "./HPMA_database.assets/蜜糖之味·甜.jpg"
+            },
+            {
+                "name": "蜜糖之味·盐",
+                "url": "./HPMA_database.assets/蜜糖之味·盐.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/蜜糖之味-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "乐于助人的草药学家",
+        "date": "2024-03-12",
+        "type": "巫师研究",
+        "images": [
+            {
+                "name": "乐于助人的草药学家",
+                "url": "./HPMA_database.assets/乐于助人的草药学家.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "草药学者",
+        "date": "2022-05-18",
+        "type": "直售",
+        "images": [
+            {
+                "name": "草药学者",
+                "url": "./HPMA_database.assets/草药学者.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "落羽之舞",
+        "date": "2022-05-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "落羽之舞",
+                "url": "./HPMA_database.assets/落羽之舞.jpg"
+            },
+            {
+                "name": "落羽之舞·紫",
+                "url": "./HPMA_database.assets/落羽之舞·紫.png"
+            },
+            {
+                "name": "落羽之舞·绿",
+                "url": "./HPMA_database.assets/落羽之舞·绿.png"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/落羽之舞-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "花园交响曲",
+        "date": "2022-05-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "花园交响曲",
+                "url": "./HPMA_database.assets/花园交响曲.jpg"
+            },
+            {
+                "name": "花园交响曲·蓝",
+                "url": "./HPMA_database.assets/花园交响曲·蓝.png"
+            },
+            {
+                "name": "花园交响曲·绿",
+                "url": "./HPMA_database.assets/花园交响曲·绿.png"
+            },
+            {
+                "name": "花园交响曲·紫",
+                "url": "./HPMA_database.assets/花园交响曲·紫.png"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/花园交响曲-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "青春领结",
+        "date": "2022-05-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "青春领结",
+                "url": "./HPMA_database.assets/青春领结.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "日月流影",
+        "date": "2022-04-20",
+        "type": "直售",
+        "images": [
+            {
+                "name": "日月流影",
+                "url": "./HPMA_database.assets/日月流影.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "布艺时光",
+        "date": "2022-04-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "布艺时光",
+                "url": "./HPMA_database.assets/布艺时光.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "梦境边缘",
+        "date": "2022-04-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "梦境边缘",
+                "url": "./HPMA_database.assets/梦境边缘.jpg"
+            },
+            {
+                "name": "梦境边缘·粉",
+                "url": "./HPMA_database.assets/梦境边缘·粉.png"
+            },
+            {
+                "name": "梦境边缘·红",
+                "url": "./HPMA_database.assets/梦境边缘·红.png"
+            },
+            {
+                "name": "梦境边缘·绿",
+                "url": "./HPMA_database.assets/梦境边缘·绿.png"
+            },
+            {
+                "name": "梦境边缘·雾",
+                "url": "./HPMA_database.assets/梦境边缘·雾.png"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/梦境边缘-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": [
+                {
+                    "name": "梦境边缘-插画",
+                    "url": "./HPMA_database.assets/梦境边缘-插画.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "name": "慵懒假日",
+        "date": "2022-04-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "慵懒假日",
+                "url": "./HPMA_database.assets/慵懒假日.jpg"
+            },
+            {
+                "name": "慵懒假日·白",
+                "url": "./HPMA_database.assets/慵懒假日·白.png"
+            },
+            {
+                "name": "慵懒假日·粉",
+                "url": "./HPMA_database.assets/慵懒假日·粉.png"
+            },
+            {
+                "name": "慵懒假日·黄",
+                "url": "./HPMA_database.assets/慵懒假日·黄.png"
+            },
+            {
+                "name": "慵懒假日·黑",
+                "url": "./HPMA_database.assets/慵懒假日·黑.png"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/慵懒假日-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": [
+                {
+                    "name": "慵懒假日-插画",
+                    "url": "./HPMA_database.assets/慵懒假日-插画.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "name": "学园优等生",
+        "date": "2022-03-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "学园优等生",
+                "url": "./HPMA_database.assets/学园优等生.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "柔绒风尚",
+        "date": "2022-03-23",
+        "type": "摩金夫人商店",
+        "images": [
+            {
+                "name": "柔绒风尚-褐",
+                "url": "./HPMA_database.assets/柔绒风尚-褐.png"
+            },
+            {
+                "name": "柔绒风尚-蓝",
+                "url": "./HPMA_database.assets/柔绒风尚-蓝.png"
+            },
+            {
+                "name": "柔绒风尚-黑",
+                "url": "./HPMA_database.assets/柔绒风尚-黑.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "英伦往事",
+        "date": "2022-03-23",
+        "type": "摩金夫人商店",
+        "images": [
+            {
+                "name": "英伦往事-绿",
+                "url": "./HPMA_database.assets/英伦往事-绿.png"
+            },
+            {
+                "name": "英伦往事-蓝",
+                "url": "./HPMA_database.assets/英伦往事-蓝.png"
+            },
+            {
+                "name": "英伦往事-粉",
+                "url": "./HPMA_database.assets/英伦往事-粉.png"
+            },
+            {
+                "name": "英伦往事-咖",
+                "url": "./HPMA_database.assets/英伦往事-咖.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "温暖记忆",
+        "date": "2022-03-23",
+        "type": "摩金夫人商店",
+        "images": [
+            {
+                "name": "温暖记忆-黄",
+                "url": "./HPMA_database.assets/温暖记忆-黄.png"
+            },
+            {
+                "name": "温暖记忆-白",
+                "url": "./HPMA_database.assets/温暖记忆-白.png"
+            },
+            {
+                "name": "温暖记忆-咖",
+                "url": "./HPMA_database.assets/温暖记忆-咖.png"
+            },
+            {
+                "name": "温暖记忆-棕",
+                "url": "./HPMA_database.assets/温暖记忆-棕.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "布艺时光",
+        "date": "2022-04-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "布艺时光",
+                "url": "./HPMA_database.assets/布艺时光.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "森之境",
+        "date": "2022-03-23",
+        "type": "直售",
+        "images": [
+            {
+                "name": "森之境",
+                "url": "./HPMA_database.assets/森之境.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "魔法峰会",
+        "date": "2022-03-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "魔法峰会",
+                "url": "./HPMA_database.assets/魔法峰会.jpg"
+            },
+            {
+                "name": "魔法峰会·鹰",
+                "url": "./HPMA_database.assets/魔法峰会·鹰.png"
+            },
+            {
+                "name": "魔法峰会·白",
+                "url": "./HPMA_database.assets/魔法峰会·白.png"
+            },
+            {
+                "name": "魔法峰会·鹰·白",
+                "url": "./HPMA_database.assets/魔法峰会·鹰·白.png"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/魔法峰会-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": [
+                {
+                    "name": "魔法峰会-插画",
+                    "url": "./HPMA_database.assets/魔法峰会-插画.jpg"
+                },
+                {
+                    "name": "魔法峰会-设计图",
+                    "url": "./HPMA_database.assets/魔法峰会-设计图.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "name": "渡鸦迷影",
+        "date": "2022-03-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "渡鸦迷影",
+                "url": "./HPMA_database.assets/渡鸦迷影.jpg"
+            },
+            {
+                "name": "渡鸦迷影·红",
+                "url": "./HPMA_database.assets/渡鸦迷影·红.png"
+            },
+            {
+                "name": "渡鸦迷影·黑",
+                "url": "./HPMA_database.assets/渡鸦迷影·黑.png"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/渡鸦迷影-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": [
+                {
+                    "name": "渡鸦迷影-插画",
+                    "url": "./HPMA_database.assets/渡鸦迷影-插画.jpg"
+                },
+                {
+                    "name": "渡鸦迷影-设计图",
+                    "url": "./HPMA_database.assets/渡鸦迷影-设计图.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "name": "回廊拾梦",
+        "date": "2022-01-26",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "回廊拾梦",
+                "url": "./HPMA_database.assets/回廊拾梦.jpg"
+            },
+            {
+                "name": "回廊拾梦·白",
+                "url": "./HPMA_database.assets/回廊拾梦·白.png"
+            },
+            {
+                "name": "回廊拾梦·黑",
+                "url": "./HPMA_database.assets/回廊拾梦·黑.png"
+            },
+            {
+                "name": "回廊旧梦",
+                "url": "./HPMA_database.assets/回廊旧梦.png"
+            },
+            {
+                "name": "回廊旧梦·白",
+                "url": "./HPMA_database.assets/回廊旧梦·白.png"
+            },
+            {
+                "name": "回廊旧梦·黑",
+                "url": "./HPMA_database.assets/回廊旧梦·黑.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "惊艳亮相/沉默焦点",
+        "date": "2022-01-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "惊艳亮相/沉默焦点",
+                "url": "./HPMA_database.assets/惊艳亮相_沉默焦点.jpg"
+            },
+            {
+                "name": "惊艳亮相·蓝",
+                "url": "./HPMA_database.assets/惊艳亮相·蓝.png"
+            },
+            {
+                "name": "惊艳亮相·黄",
+                "url": "./HPMA_database.assets/惊艳亮相·黄.png"
+            },
+            {
+                "name": "惊艳亮相·黑",
+                "url": "./HPMA_database.assets/惊艳亮相·黑.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "拼色乐园",
+        "date": "2022-01-26",
+        "type": "直售",
+        "images": [
+            {
+                "name": "拼色乐园",
+                "url": "./HPMA_database.assets/拼色乐园.png"
+            },
+            {
+                "name": "拼色乐园·红",
+                "url": "./HPMA_database.assets/拼色乐园·红.png"
+            },
+            {
+                "name": "拼色乐园·黄",
+                "url": "./HPMA_database.assets/拼色乐园·黄.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "黑白钢琴家",
+        "date": "2022-01-12",
+        "type": "直售",
+        "images": [
+            {
+                "name": "黑白钢琴家",
+                "url": "./HPMA_database.assets/黑白钢琴家.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "雪国归客",
+        "date": "2022-01-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "雪国归客",
+                "url": "./HPMA_database.assets/雪国归客.jpg"
+            },
+            {
+                "name": "雪国归客·褐",
+                "url": "./HPMA_database.assets/雪国归客·褐.png"
+            },
+            {
+                "name": "雪国归客·黑",
+                "url": "./HPMA_database.assets/雪国归客·黑.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "南法之蓝/北方来客",
+        "date": "2021-12-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "南法之蓝/北方来客",
+                "url": "./HPMA_database.assets/南法之蓝_北方来客.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "午夜魅影",
+        "date": "2021-11-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "午夜魅影",
+                "url": "./HPMA_database.assets/午夜魅影.jpg"
+            },
+            {
+                "name": "午夜魅影·紫",
+                "url": "./HPMA_database.assets/午夜魅影·紫.png"
+            },
+            {
+                "name": "午夜魅影·白",
+                "url": "./HPMA_database.assets/午夜魅影·白.png"
+            },
+            {
+                "name": "午夜魅影·绿",
+                "url": "./HPMA_database.assets/午夜魅影·绿.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "冬日暖意",
+        "date": "2021-12-22",
+        "type": "直售",
+        "images": [
+            {
+                "name": "冬日暖意",
+                "url": "./HPMA_database.assets/冬日暖意.jpg"
+            },
+            {
+                "name": "冬日暖意·蓝",
+                "url": "./HPMA_database.assets/冬日暖意·蓝.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "摇曳兰芒",
+        "date": "2021-12-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "摇曳兰芒",
+                "url": "./HPMA_database.assets/摇曳兰芒.jpg"
+            },
+            {
+                "name": "摇曳兰芒·白",
+                "url": "./HPMA_database.assets/摇曳兰芒·白.png"
+            },
+            {
+                "name": "摇曳兰芒·黑",
+                "url": "./HPMA_database.assets/摇曳兰芒·黑.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "流金时光",
+        "date": "2021-10-27",
+        "type": "直售",
+        "images": [
+            {
+                "name": "流金时光",
+                "url": "./HPMA_database.assets/流金时光.jpg"
+            },
+            {
+                "name": "流金时光·羽",
+                "url": "./HPMA_database.assets/流金时光·羽.png"
+            },
+            {
+                "name": "流金时光·灿",
+                "url": "./HPMA_database.assets/流金时光·灿.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "东方年华",
+        "date": "2021-09-19",
+        "type": "直售",
+        "images": [
+            {
+                "name": "东方年华",
+                "url": "./HPMA_database.assets/东方年华.jpg"
+            },
+            {
+                "name": "东方年华·赭",
+                "url": "./HPMA_database.assets/东方年华·赭.png"
+            },
+            {
+                "name": "东方年华·青",
+                "url": "./HPMA_database.assets/东方年华·青.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "迷幻星云",
+        "date": "2021-10-01",
+        "type": "直售",
+        "images": [
+            {
+                "name": "迷幻星云",
+                "url": "./HPMA_database.assets/迷幻星云.jpg"
+            },
+            {
+                "name": "迷幻星云·紫",
+                "url": "./HPMA_database.assets/迷幻星云·紫.png"
+            },
+            {
+                "name": "迷幻星云·黑",
+                "url": "./HPMA_database.assets/迷幻星云·黑.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "暗夜庄园",
+        "date": "2021-09-09",
+        "type": "直售",
+        "images": [
+            {
+                "name": "暗夜庄园",
+                "url": "./HPMA_database.assets/暗夜庄园.jpg"
+            },
+            {
+                "name": "暗夜庄园·萤",
+                "url": "./HPMA_database.assets/暗夜庄园·萤.png"
+            },
+            {
+                "name": "暗夜庄园·森",
+                "url": "./HPMA_database.assets/暗夜庄园·森.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "火龙服",
+        "date": "2021-09-09",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "火龙服",
+                "url": "./HPMA_database.assets/火龙服.jpg"
+            },
+            {
+                "name": "火龙服·绿",
+                "url": "./HPMA_database.assets/火龙服·绿.png"
+            },
+            {
+                "name": "火龙服·褐",
+                "url": "./HPMA_database.assets/火龙服·褐.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "暮色哥特",
+        "date": "2021-10-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "暮色哥特",
+                "url": "./HPMA_database.assets/暮色哥特.jpg"
+            },
+            {
+                "name": "暮色哥特·珀",
+                "url": "./HPMA_database.assets/暮色哥特·珀.png"
+            },
+            {
+                "name": "暮色哥特·瑰",
+                "url": "./HPMA_database.assets/暮色哥特·瑰.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "缤纷假日",
+        "date": "2021-09-09",
+        "type": "作业",
+        "images": [
+            {
+                "name": "缤纷假日",
+                "url": "./HPMA_database.assets/缤纷假日.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "点亮黑夜/隐匿花火",
+        "date": "2021-10-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "点亮黑夜",
+                "url": "./HPMA_database.assets/点亮黑夜.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "青年大师",
+        "date": "2021-11-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "青年大师",
+                "url": "./HPMA_database.assets/青年大师.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "落雪之声",
+        "date": "2021-12-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "落雪之声",
+                "url": "./HPMA_database.assets/落雪之声.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "暖融融",
+        "date": "2022-01-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "暖融融",
+                "url": "./HPMA_database.assets/暖融融.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "午后摩卡",
+        "date": "2022-02-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "午后摩卡",
+                "url": "./HPMA_database.assets/午后摩卡.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "学园优等生",
+        "date": "2022-03-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "学园优等生",
+                "url": "./HPMA_database.assets/学园优等生.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "初夏叶脉",
+        "date": "2022-06-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "初夏叶脉",
+                "url": "./HPMA_database.assets/初夏叶脉.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "美好定格",
+        "date": "2022-07-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "美好定格",
+                "url": "./HPMA_database.assets/美好定格.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "软糯心情",
+        "date": "2022-12-23",
+        "type": "树下赠礼",
+        "images": [
+            {
+                "name": "软糯心情·冬青",
+                "url": "./HPMA_database.assets/软糯心情·冬青.png"
+            },
+            {
+                "name": "软糯心情·雪绒",
+                "url": "./HPMA_database.assets/软糯心情·雪绒.png"
+            },
+            {
+                "name": "软糯心情·紫罗兰",
+                "url": "./HPMA_database.assets/软糯心情·紫罗兰.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "馥郁花香",
+        "date": "2024-02-06",
+        "type": "赛季时装",
+        "images": [
+            {
+                "name": "馥郁花香",
+                "url": "./HPMA_database.assets/馥郁花香.png"
+            },
+            {
+                "name": "馥郁花香·暖冬",
+                "url": "./HPMA_database.assets/馥郁花香·暖冬.png"
+            },
+            {
+                "name": "馥郁花香·夏末",
+                "url": "./HPMA_database.assets/馥郁花香·夏末.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "妙手生香的烹饪艺术家",
+        "date": "2025-05-28",
+        "type": "巫师研究",
+        "images": [
+            {
+                "name": "妙手生香的烹饪艺术家",
+                "url": "./HPMA_database.assets/妙手生香的烹饪艺术家.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "叶落喵语",
+        "date": "2022-09-24",
+        "type": "直售",
+        "images": [
+            {
+                "name": "叶落喵语",
+                "url": "./HPMA_database.assets/叶落喵语.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "盛夏之旅",
+        "date": "2022-07-20",
+        "type": "免费赠送",
+        "images": [
+            {
+                "name": "盛夏之旅",
+                "url": "./HPMA_database.assets/盛夏之旅.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "牛仔故事",
+        "date": "2022-09-07",
+        "type": "摩金夫人商店",
+        "images": [
+            {
+                "name": "牛仔故事",
+                "url": "./HPMA_database.assets/牛仔故事.png"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     }
 ]
