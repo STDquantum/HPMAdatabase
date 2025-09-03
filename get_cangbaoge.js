@@ -10,15 +10,15 @@ const items = document.querySelectorAll('.icon-item');
 const newData = [];
 
 items.forEach(item => {
-  const img = item.querySelector('.img');
-  const nameSpan = item.querySelector('.cqm-text.icon-label');
+    const img = item.querySelector('.img');
+    const nameSpan = item.querySelector('.cqm-text.icon-label');
 
-  if (img && nameSpan) {
-    newData.push({
-      name: nameSpan.textContent.trim(),
-      url: img.getAttribute('src')
-    });
-  }
+    if (img && nameSpan) {
+        newData.push({
+            name: nameSpan.textContent.trim(),
+            url: img.getAttribute('src')
+        });
+    }
 });
 
 console.log(`解析到新数据 ${newData.length} 条`);
@@ -26,13 +26,13 @@ console.log(`解析到新数据 ${newData.length} 条`);
 // ========== 第二步：读取已有的 clothes.json ==========
 let oldData = [];
 if (fs.existsSync('clothes.json')) {
-  try {
-    oldData = JSON.parse(fs.readFileSync('clothes.json', 'utf8'));
-    console.log(`读取到旧数据 ${oldData.length} 条`);
-  } catch (err) {
-    console.error('读取 clothes.json 出错，重置为空：', err);
-    oldData = [];
-  }
+    try {
+        oldData = JSON.parse(fs.readFileSync('clothes.json', 'utf8'));
+        console.log(`读取到旧数据 ${oldData.length} 条`);
+    } catch (err) {
+        console.error('读取 clothes.json 出错，重置为空：', err);
+        oldData = [];
+    }
 }
 
 // ========== 第三步：合并数据（去重） ==========
@@ -41,22 +41,30 @@ const mergedMap = new Map();
 
 // 先放入旧数据
 oldData.forEach(item => {
-  const key = `${item.name}|${item.url}`;
-  mergedMap.set(key, item);
+    const key = `${item.name}|${item.url}`;
+    mergedMap.set(key, item);
 });
 
 // 再放入新数据（自动覆盖同名同url）
 newData.forEach(item => {
-  const key = `${item.name}|${item.url}`;
-  mergedMap.set(key, item);
+    const key = `${item.name}|${item.url}`;
+    mergedMap.set(key, item);
 });
 
 // 合并后的数组
 const mergedData = Array.from(mergedMap.values());
 
+// 按 name 字母顺序排序，再按 url 字母逆序排序
+const sortedData = mergedData.sort((a, b) => {
+    if (a.name === b.name) {
+        return b.url.localeCompare(a.url); // url 逆序
+    }
+    return a.name.localeCompare(b.name); // name 正序
+});
+
 // ========== 第四步：写回 clothes.json ==========
-fs.writeFileSync('clothes.json', JSON.stringify(mergedData, null, 2), 'utf8');
-console.log(`合并完成！当前总数据 ${mergedData.length} 条`);
+fs.writeFileSync('clothes.json', JSON.stringify(sortedData, null, 2), 'utf8');
+console.log(`合并完成！当前总数据 ${sortedData.length} 条`);
 
 // ========== 第五步：生成展示 HTML ==========
 let htmlOutput = `
@@ -102,8 +110,8 @@ let htmlOutput = `
   <div class="container">
 `;
 
-mergedData.forEach(cloth => {
-  htmlOutput += `
+sortedData.forEach(cloth => {
+    htmlOutput += `
     <div class="item">
       <img src="${cloth.url}" alt="${cloth.name}">
       <span>${cloth.name}</span>
