@@ -3882,11 +3882,11 @@
 
 ![日常背带裙-紫](./HPMA_database.assets/日常背带裙-紫.png)
 
-![日常背带裙-棕](./HPMA_database.assets/日常背带裙-棕-1.png)
+![日常背带裙-棕](./HPMA_database.assets/日常背带裙-棕.png)
 
 ![日常背带裙-白](./HPMA_database.assets/日常背带裙-白.png)
 
-![日常背带裙-棕](./HPMA_database.assets/日常背带裙-棕-1.png)
+![日常背带裙-棕](./HPMA_database.assets/日常背带裙-棕.png)
 
 #### 条漫
 
@@ -4175,5 +4175,41 @@
 #### 图片
 
 ![别致阴影](./HPMA_database.assets/别致阴影.png)
+
+#### 条漫
+
+### 什锦甘菊
+
+#### 上线日期
+
+2025-10-01
+
+#### 类型
+
+作业
+
+#### 图片
+
+![什锦甘菊](./HPMA_database.assets/什锦甘菊.jpg)
+
+#### 条漫
+
+### 天象罗盘
+
+#### 上线日期
+
+2025-10-01
+
+#### 类型
+
+转盘
+
+#### 图片
+
+![天象罗盘](./HPMA_database.assets/天象罗盘.jpg)
+
+![天象罗盘·玫云](./HPMA_database.assets/天象罗盘·玫云.jpg)
+
+![天象罗盘·极光](./HPMA_database.assets/天象罗盘·极光.jpg)
 
 #### 条漫

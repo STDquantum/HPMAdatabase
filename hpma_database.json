@@ -4246,5 +4246,45 @@
             "content": "",
             "images": []
         }
+    },
+    {
+        "name": "什锦甘菊",
+        "date": "2025-10-01",
+        "type": "作业",
+        "images": [
+            {
+                "name": "什锦甘菊",
+                "url": "./HPMA_database.assets/什锦甘菊.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "天象罗盘",
+        "date": "2025-10-01",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "天象罗盘",
+                "url": "./HPMA_database.assets/天象罗盘.jpg"
+            },
+            {
+                "name": "天象罗盘·玫云",
+                "url": "./HPMA_database.assets/天象罗盘·玫云.jpg"
+            },
+            {
+                "name": "天象罗盘·极光",
+                "url": "./HPMA_database.assets/天象罗盘·极光.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
     }
 ]
