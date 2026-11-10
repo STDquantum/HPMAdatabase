@@ -4286,5 +4286,53 @@
             "content": "",
             "images": []
         }
+    },
+    {
+        "name": "幽银夜宴",
+        "date": "2025-10-29",
+        "type": "转盘",
+        "images": [
+            {
+                "name": "幽银夜宴",
+                "url": "./HPMA_database.assets/幽银夜宴.jpg"
+            },
+            {
+                "name": "幽银夜宴·沧痕",
+                "url": "./HPMA_database.assets/幽银夜宴·沧痕.jpg"
+            },
+            {
+                "name": "幽银夜宴·瓷泣",
+                "url": "./HPMA_database.assets/幽银夜宴·瓷泣.jpg"
+            }
+        ],
+        "cartoon": "",
+        "others": {
+            "content": "",
+            "images": []
+        }
+    },
+    {
+        "name": "绵绒甜梦",
+        "date": "2025-10-25",
+        "type": "三万",
+        "images": [
+            {
+                "name": "绵绒甜梦",
+                "url": "./HPMA_database.assets/绵绒甜梦.jpg"
+            },
+            {
+                "name": "绵绒甜梦·星",
+                "url": "./HPMA_database.assets/绵绒甜梦·星.jpg"
+            },
+            {
+                "name": "绵绒甜梦·云",
+                "url": "./HPMA_database.assets/绵绒甜梦·云.jpg"
+            }
+        ],
+        "cartoon": "./HPMA_database.assets/绵绒甜梦-条漫.jpg",
+        "others": {
+            "content": "",
+            "images": []
+        }
     }
 ]

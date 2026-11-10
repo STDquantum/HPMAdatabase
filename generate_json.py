@@ -1,3 +1,4 @@
+# 使用方法：把信息填入 HPMA_database.md，然后运行此文件，再运行 start.bat 即可打开浏览器网页。
 import re
 import json
 import os

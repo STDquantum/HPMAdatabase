@@ -1,3 +1,5 @@
+// 先把藏宝阁衣服那一趴的 HTML 保存为 test1.html，然后运行此脚本
+// 会生成或更新 clothes.json，并生成展示页面 clothes.html
 const fs = require('fs');
 const { JSDOM } = require('jsdom');
 
