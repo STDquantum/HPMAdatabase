@@ -103,6 +103,17 @@ if (fs.existsSync(DATA_FILE)) {
 }
 
 const incomingRecords = extractAppearanceRecords(fs.readFileSync(INPUT, 'utf8'));
+const existingAppearanceKeys = new Set(existingRecords
+    .filter(record => record.category !== '卡牌' && record.category && record.name && record.sourceUrl)
+    .map(record => `${record.category}|${record.name}|${record.sourceUrl}`)
+);
+const newRecords = incomingRecords.filter(record =>
+    !existingAppearanceKeys.has(`${record.category}|${record.name}|${record.sourceUrl}`)
+);
+const newCounts = new Map();
+for (const record of newRecords) {
+    newCounts.set(record.category, (newCounts.get(record.category) || 0) + 1);
+}
 
 const merged = new Map();
 for (const record of [...existingRecords, ...incomingRecords, ...cardRecords]) {
@@ -260,7 +271,19 @@ async function main() {
     const cards = [...document.querySelectorAll('.card')];
     const search = document.querySelector('#search');
     const summary = document.querySelector('#summary');
-    let selected = 'all';
+    const stateKey = 'hpma-index-view-state-v1';
+    let savedState = {};
+    try { savedState = JSON.parse(localStorage.getItem(stateKey) || '{}') || {}; } catch {}
+    const validCategories = new Set(buttons.map(button => button.dataset.category));
+    let selected = validCategories.has(savedState.category) ? savedState.category : 'all';
+    const savedScrollY = Math.max(0, Number(savedState.scrollY) || 0);
+    search.value = typeof savedState.search === 'string' ? savedState.search : '';
+    let saveTimer;
+    function saveState() {
+      try {
+        localStorage.setItem(stateKey, JSON.stringify({ category: selected, search: search.value, scrollY: window.scrollY }));
+      } catch {}
+    }
     function update() {
       const query = search.value.trim().toLowerCase();
       let visible = 0;
@@ -270,6 +293,8 @@ async function main() {
         if (show) visible++;
       }
       summary.textContent = '显示 ' + visible + ' / ' + cards.length + ' 项';
+      buttons.forEach(item => item.classList.toggle('active', item.dataset.category === selected));
+      saveState();
     }
     buttons.forEach(button => button.addEventListener('click', () => {
       selected = button.dataset.category;
@@ -277,16 +302,24 @@ async function main() {
       update();
     }));
     search.addEventListener('input', update);
+    window.addEventListener('scroll', () => {
+      clearTimeout(saveTimer);
+      saveTimer = setTimeout(saveState, 150);
+    }, { passive: true });
+    window.addEventListener('pagehide', saveState);
     update();
+    requestAnimationFrame(() => requestAnimationFrame(() => window.scrollTo(0, savedScrollY)));
   </script>
 </body>
 </html>`;
 
     fs.writeFileSync(OUTPUT_HTML, html, 'utf8');
-    console.log(`整理完成：${records.length} 条装饰记录、${cardRecords.length} 张卡牌；下载 ${downloaded} 张装饰图片，复用 ${reused} 张本地图片。`);
-    for (const category of categories) {
-        console.log(`${category}: ${allRecords.filter(record => record.category === category).length} 条`);
+    console.log('类别（新增/总量）');
+    for (const category of Object.keys(CATEGORIES)) {
+        const total = records.filter(record => record.category === category).length;
+        console.log(`${category} ${newCounts.get(category) || 0}/${total}`);
     }
+    console.log(`整理完成：新增 ${newRecords.length} 条装饰记录；下载 ${downloaded} 张装饰图片，复用 ${reused} 张本地图片。`);
     console.log('已生成 clothes.json 和 index.html。');
 }
 
