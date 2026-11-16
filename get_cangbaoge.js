@@ -1,11 +1,11 @@
-// 从装饰.html 提取外观分类，并合并静态卡牌数据，生成本地图片、clothes.json 和 index.html。
+// 将本次 test1.html 条目并入 clothes.json，并从 JSON 生成本地图片和 index.html。
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 const { JSDOM } = require('jsdom');
 
 const ROOT = __dirname;
-const INPUT = path.join(ROOT, '装饰.html');
+const INPUT = path.join(ROOT, 'test1.html');
 const DATA_FILE = path.join(ROOT, 'clothes.json');
 const OUTPUT_HTML = path.join(ROOT, 'index.html');
 const IMAGE_ROOT = path.join(ROOT, 'clothes');
@@ -30,45 +30,32 @@ const CATEGORIES = {
     '家具': 'furniture'
 };
 
-if (!fs.existsSync(INPUT)) {
-    console.error('找不到 装饰.html，请先将藏宝阁装饰页面 HTML 放到项目目录。');
-    process.exit(1);
-}
 if (!fs.existsSync(CARD_INFO_FILE) || !fs.existsSync(CARD_BACKGROUND_SOURCE)) {
     console.error(`找不到卡牌静态数据或素材目录：${CARD_SOURCE_ROOT}`);
     process.exit(1);
 }
-
-const document = new JSDOM(fs.readFileSync(INPUT, 'utf8')).window.document;
-const dataByKey = new Map();
-
-for (const label of document.querySelectorAll('.cqm-wrap')) {
-    const category = label.textContent.replace(/^\s*•\s*/, '').trim();
-    if (!Object.hasOwn(CATEGORIES, category)) continue;
-
-    const list = label.nextElementSibling;
-    if (!list) continue;
-
-    for (const item of list.querySelectorAll('.icon-item')) {
-        const image = item.querySelector('.img');
-        const name = item.querySelector('.cqm-text.icon-label')?.textContent.trim();
-        const sourceUrl = image?.getAttribute('src');
-        if (!name || !sourceUrl || !/^https?:\/\//i.test(sourceUrl)) continue;
-
-        const key = `${category}|${name}|${sourceUrl}`;
-        dataByKey.set(key, { category, name, sourceUrl });
-    }
+if (!fs.existsSync(INPUT)) {
+    console.error('找不到 test1.html。请先把当前商品的装饰 div.content 保存到项目目录。');
+    process.exit(1);
 }
 
-const records = [...dataByKey.values()].sort((a, b) =>
-    a.category.localeCompare(b.category, 'zh') ||
-    a.name.localeCompare(b.name, 'zh') ||
-    a.sourceUrl.localeCompare(b.sourceUrl)
-);
-
-if (!records.length) {
-    console.error('没有从 装饰.html 中找到支持的外观条目。');
-    process.exit(1);
+function extractAppearanceRecords(html) {
+    const document = new JSDOM(html).window.document;
+    const extracted = new Map();
+    for (const label of document.querySelectorAll('.cqm-wrap')) {
+        const category = label.textContent.replace(/^\s*•\s*/, '').trim();
+        if (!Object.hasOwn(CATEGORIES, category)) continue;
+        const list = label.nextElementSibling;
+        if (!list) continue;
+        for (const item of list.querySelectorAll('.icon-item')) {
+            const image = item.querySelector('.img');
+            const name = item.querySelector('.cqm-text.icon-label')?.textContent.trim();
+            const sourceUrl = image?.getAttribute('src');
+            if (!name || !sourceUrl || !/^https?:\/\//i.test(sourceUrl)) continue;
+            extracted.set(`${category}|${name}|${sourceUrl}`, { category, name, sourceUrl });
+        }
+    }
+    return [...extracted.values()];
 }
 
 const cardSource = JSON.parse(fs.readFileSync(CARD_INFO_FILE, 'utf8'));
@@ -108,7 +95,36 @@ for (const card of cardRecords) {
     }
 }
 
-const allRecords = [...records, ...cardRecords];
+let existingRecords = [];
+if (fs.existsSync(DATA_FILE)) {
+    const parsed = JSON.parse(fs.readFileSync(DATA_FILE, 'utf8'));
+    if (!Array.isArray(parsed)) throw new Error('clothes.json 必须是数组格式');
+    existingRecords = parsed;
+}
+
+const incomingRecords = extractAppearanceRecords(fs.readFileSync(INPUT, 'utf8'));
+
+const merged = new Map();
+for (const record of [...existingRecords, ...incomingRecords, ...cardRecords]) {
+    if (record.category === '卡牌') {
+        merged.set(`card|${record.id || record.sourceUrl}`, record);
+        continue;
+    }
+    if (!record.category || !record.name || !record.sourceUrl) continue;
+    const key = `${record.category}|${record.name}|${record.sourceUrl}`;
+    merged.set(key, {
+        ...record,
+        localPath: record.localPath || localPathFor(record.category, record.sourceUrl)
+    });
+}
+
+const allRecords = [...merged.values()].sort((a, b) =>
+    a.category.localeCompare(b.category, 'zh') ||
+    (a.order ?? 0) - (b.order ?? 0) ||
+    a.name.localeCompare(b.name, 'zh') ||
+    (a.sourceUrl || '').localeCompare(b.sourceUrl || '')
+);
+const records = allRecords.filter(record => record.category !== '卡牌');
 
 function extensionFor(url) {
     const ext = path.extname(new URL(url).pathname).toLowerCase();
