@@ -4009,6 +4009,12 @@
   },
   {
     "category": "服装",
+    "name": "布艺时光",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao258.png",
+    "localPath": "clothes/outfits/95b9bdfb3704009efce577d9338dd6a50ef4b8c6.png"
+  },
+  {
+    "category": "服装",
     "name": "残局将杀",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_female_clothes_278_wsqlg.png",
     "localPath": "clothes/outfits/495c75ee0690f7258e9fc099161ce1ca46fdf536.png"
@@ -5426,8 +5432,20 @@
   {
     "category": "服装",
     "name": "荒芜骑士·硫磺",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao_532.png",
+    "localPath": "clothes/outfits/8973bb8520c1f12d131fe2c4fba9176eaa392bd3.png"
+  },
+  {
+    "category": "服装",
+    "name": "荒芜骑士·硫磺",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao_654.png",
     "localPath": "clothes/outfits/ab85be2065ba98115220ee286fae6ac9e63c1444.png"
+  },
+  {
+    "category": "服装",
+    "name": "荒芜骑士·水银",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao_531.png",
+    "localPath": "clothes/outfits/1655209110a15948ce7af4b581305822b9e31ecc.png"
   },
   {
     "category": "服装",
@@ -5647,9 +5665,21 @@
   },
   {
     "category": "服装",
+    "name": "记者精神·浅格",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao494.png",
+    "localPath": "clothes/outfits/488d1c8890814d35ba3091abbf8b5890982ac468.png"
+  },
+  {
+    "category": "服装",
     "name": "记者精神·深肃",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao366.png",
     "localPath": "clothes/outfits/63035347c0a51d5791a527b3d408584e7e57aba7.png"
+  },
+  {
+    "category": "服装",
+    "name": "记者精神·深肃",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao495.png",
+    "localPath": "clothes/outfits/3e04a782564af76af7df0920c5900564b1fd5bdb.png"
   },
   {
     "category": "服装",
@@ -5680,6 +5710,18 @@
     "name": "加厚礼服-红",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao081.png",
     "localPath": "clothes/outfits/f8c51dc5b2f10c81f6488024ef5d357766b75a84.png"
+  },
+  {
+    "category": "服装",
+    "name": "加厚礼服-蓝",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao079.png",
+    "localPath": "clothes/outfits/292901a4b16cf0a95799bb83867e5c4c956627a3.png"
+  },
+  {
+    "category": "服装",
+    "name": "加厚礼服-绿",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao064.png",
+    "localPath": "clothes/outfits/dc2dc585c26cdbc12f41cc614733208e8ecb8c9f.png"
   },
   {
     "category": "服装",
@@ -5870,6 +5912,12 @@
   {
     "category": "服装",
     "name": "精致洗练",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao348.png",
+    "localPath": "clothes/outfits/1bc09c742cae1f08edb4af50ef682ee516b95fc3.png"
+  },
+  {
+    "category": "服装",
+    "name": "精致洗练",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao477.png",
     "localPath": "clothes/outfits/2827a596cd4ded2a62e32c045e4579c6c29d9c30.png"
   },
@@ -5893,9 +5941,21 @@
   },
   {
     "category": "服装",
+    "name": "旧调邂逅·朝夕",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao610.png",
+    "localPath": "clothes/outfits/0edfbccb1ff71fdc21bf1d626afe0926c634dbb5.png"
+  },
+  {
+    "category": "服装",
     "name": "旧调邂逅·魂灵",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao490.png",
     "localPath": "clothes/outfits/f86d6e5107c7f036e8b0f8cbc0080cac10c43a0f.png"
+  },
+  {
+    "category": "服装",
+    "name": "旧调邂逅·魂灵",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao612.png",
+    "localPath": "clothes/outfits/917f7e44af226acb2fa54277bf6c88304ae30cc4.png"
   },
   {
     "category": "服装",
@@ -5924,8 +5984,56 @@
   {
     "category": "服装",
     "name": "狂想牛仔",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao384.png",
+    "localPath": "clothes/outfits/db0fceae809cee2ec403f5ce52312e1b6498a58c.png"
+  },
+  {
+    "category": "服装",
+    "name": "狂想牛仔",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao508.png",
     "localPath": "clothes/outfits/39ef269ae84a8a3f201a2ca7eddca7ee756dfe75.png"
+  },
+  {
+    "category": "服装",
+    "name": "拉文克劳·素面长袍",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao_448.png",
+    "localPath": "clothes/outfits/41c5e328e8b89a1a9ce1b3f5d2b84cccbd15bc49.png"
+  },
+  {
+    "category": "服装",
+    "name": "拉文克劳·素面长袍",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao_571.png",
+    "localPath": "clothes/outfits/49dca5162d67acdb543c6c0f2cdf25643572975a.png"
+  },
+  {
+    "category": "服装",
+    "name": "拉文克劳围巾",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvweijin016.png",
+    "localPath": "clothes/outfits/ebb4a13575dcb032841b0133024795a0afef1fa7.png"
+  },
+  {
+    "category": "服装",
+    "name": "拉文克劳围巾·随性",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvweijin_82.png",
+    "localPath": "clothes/outfits/36f5ab7b00416ab6809a9a344ea2210d70de5ab4.png"
+  },
+  {
+    "category": "服装",
+    "name": "拉文克劳围巾·随性",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_weijin_007.png",
+    "localPath": "clothes/outfits/a64a5ebae6c283660580399388e784eeb70445b6.png"
+  },
+  {
+    "category": "服装",
+    "name": "拉文克劳校袍",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao013.png",
+    "localPath": "clothes/outfits/6e664b02c063d7eaa002895649355633887e598b.png"
+  },
+  {
+    "category": "服装",
+    "name": "拉文克劳校袍",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao017.png",
+    "localPath": "clothes/outfits/abf9727f2ff3a1a403b597e3426f475dbefdee7b.png"
   },
   {
     "category": "服装",
@@ -6644,6 +6752,12 @@
   {
     "category": "服装",
     "name": "命运窥视者·灵氛",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao_566.png",
+    "localPath": "clothes/outfits/3bef8dc79435234ca4be5d3e2dcfdb5f37d37417.png"
+  },
+  {
+    "category": "服装",
+    "name": "命运窥视者·灵氛",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao_688.png",
     "localPath": "clothes/outfits/bcb24408c374e309db1e9156d0933fc7f867187b.png"
   },
@@ -6772,6 +6886,12 @@
     "name": "抹茶猕猴桃",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao418.png",
     "localPath": "clothes/outfits/960f2aa3b26adfac1804a116798c3edec5f8e90c.png"
+  },
+  {
+    "category": "服装",
+    "name": "抹茶猕猴桃",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao542.png",
+    "localPath": "clothes/outfits/b8278fdf1148d533584551e319270129830407f1.png"
   },
   {
     "category": "服装",
@@ -7046,6 +7166,12 @@
   {
     "category": "服装",
     "name": "破咒之触·虚影",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao_555.png",
+    "localPath": "clothes/outfits/e0620e8db7934ea6fdb0210917845052ef75b30c.png"
+  },
+  {
+    "category": "服装",
+    "name": "破咒之触·虚影",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao_677.png",
     "localPath": "clothes/outfits/3d6d3dc8717d7187b2d2e72201049bfabaa55f62.png"
   },
@@ -7276,6 +7402,12 @@
     "name": "日常背带裤-棕",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao040.png",
     "localPath": "clothes/outfits/f67173cddab31123f164473886b57551d0eded70.png"
+  },
+  {
+    "category": "服装",
+    "name": "日常背带裙-白",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao131.png",
+    "localPath": "clothes/outfits/11b16116665e780152ee7d0401121caccbdb6d7d.png"
   },
   {
     "category": "服装",
@@ -7546,6 +7678,12 @@
     "name": "神秘考察·峻苍",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao372.png",
     "localPath": "clothes/outfits/b4028d3ba403c15072093f33864c2d568e646d6b.png"
+  },
+  {
+    "category": "服装",
+    "name": "神秘考察·峻苍",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao501.png",
+    "localPath": "clothes/outfits/429c28e4e6aee11eca998abebd0552a8a702761d.png"
   },
   {
     "category": "服装",
@@ -8659,6 +8797,24 @@
   },
   {
     "category": "服装",
+    "name": "小礼服-海洋",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao005.png",
+    "localPath": "clothes/outfits/2ed140a670130f29c0d3392be3a190a65d52aca4.png"
+  },
+  {
+    "category": "服装",
+    "name": "小礼服-花园",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao049.png",
+    "localPath": "clothes/outfits/e5a774f422d976ad72a8235aa51031d3c81bffe9.png"
+  },
+  {
+    "category": "服装",
+    "name": "小礼服-淑女",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao048.png",
+    "localPath": "clothes/outfits/a15e1b0d54cd6dde106acf4320a5c611f1dd58f7.png"
+  },
+  {
+    "category": "服装",
     "name": "小礼服-银杏",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao051.png",
     "localPath": "clothes/outfits/6a8b053de2a9f439cac76a3cf2d95bb8a1afe6f9.png"
@@ -8821,6 +8977,18 @@
   },
   {
     "category": "服装",
+    "name": "学海航迹·赫奇帕奇",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao459.png",
+    "localPath": "clothes/outfits/5d9c108d45bde0141fcf549261307920b0a38f74.png"
+  },
+  {
+    "category": "服装",
+    "name": "学海航迹·赫奇帕奇",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao582.png",
+    "localPath": "clothes/outfits/e5e65538d5f989b293244ea74993fd94ad46201a.png"
+  },
+  {
+    "category": "服装",
     "name": "学海航迹·拉文克劳",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao460.png",
     "localPath": "clothes/outfits/e78a7d23dc2178a1326c6ed248548d5f17cfedf8.png"
@@ -8860,6 +9028,24 @@
     "name": "学院风格-方块红",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao058.png",
     "localPath": "clothes/outfits/acb2bcb2359b15d57dc6d500cfebed93850c89c2.png"
+  },
+  {
+    "category": "服装",
+    "name": "学院风格-方块黄",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao056.png",
+    "localPath": "clothes/outfits/60318c60b80e959fba3181f58bf9471bff15c3d4.png"
+  },
+  {
+    "category": "服装",
+    "name": "学院风格-格纹蓝",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao069.png",
+    "localPath": "clothes/outfits/f38c09dd683970741de942ec181373279f07fb07.png"
+  },
+  {
+    "category": "服装",
+    "name": "学院风格-格纹绿",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao055.png",
+    "localPath": "clothes/outfits/5af4d7b064dd544e342db09f87ab07af8dbb4cce.png"
   },
   {
     "category": "服装",
@@ -9620,6 +9806,12 @@
   {
     "category": "服装",
     "name": "英伦往事-粉",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao238.png",
+    "localPath": "clothes/outfits/e21f5b4535a3e8ce6b89c10260a806a90f2491f1.png"
+  },
+  {
+    "category": "服装",
+    "name": "英伦往事-粉",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao249.png",
     "localPath": "clothes/outfits/8dade7efd7efc73d0c8cbb3deceac791cd84962f.png"
   },
@@ -9646,6 +9838,12 @@
     "name": "英伦往事-蓝",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao250.png",
     "localPath": "clothes/outfits/448f3833e22095c66a057ec5dffee1273ffe312d.png"
+  },
+  {
+    "category": "服装",
+    "name": "英伦往事-绿",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao240.png",
+    "localPath": "clothes/outfits/63d404ab67af6fed90a9aec2b35e3f942807d3fe.png"
   },
   {
     "category": "服装",
@@ -9715,9 +9913,21 @@
   },
   {
     "category": "服装",
+    "name": "优雅气质-薄荷绿",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao062.png",
+    "localPath": "clothes/outfits/53ecc4339b0613b91370d700464f59bf6f3b1efc.png"
+  },
+  {
+    "category": "服装",
     "name": "优雅气质-海军蓝",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao007.png",
     "localPath": "clothes/outfits/583a19cb791c6dbd71eba7d3d7dd8c3cb31d78d8.png"
+  },
+  {
+    "category": "服装",
+    "name": "优雅气质-樱桃红",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao061.png",
+    "localPath": "clothes/outfits/ea6150b4600ec82c07b9d3ac6a4ec096cf6ed6e5.png"
   },
   {
     "category": "服装",
@@ -9742,6 +9952,12 @@
     "name": "幽恶囚徒·夺魄",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao_503.png",
     "localPath": "clothes/outfits/18a125228f986054794d4dfaafd142914eb3a14d.png"
+  },
+  {
+    "category": "服装",
+    "name": "幽恶囚徒·夺魄",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao624.png",
+    "localPath": "clothes/outfits/b3de2496bc4a5fe0f0041588240c11480639b7fc.png"
   },
   {
     "category": "服装",
@@ -9871,6 +10087,12 @@
   },
   {
     "category": "服装",
+    "name": "与鸮同栖·银羽",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao404.png",
+    "localPath": "clothes/outfits/f5c0add953b0f1e8d5e1f68d36ae1cee957a4a0b.png"
+  },
+  {
+    "category": "服装",
     "name": "远洋勋迹",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao294.png",
     "localPath": "clothes/outfits/921bfdd6e65f57e657dc188aee735265c51dc405.png"
@@ -9944,6 +10166,12 @@
   {
     "category": "服装",
     "name": "找球高手-守卫",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao038.png",
+    "localPath": "clothes/outfits/71774ae12f69505373d2b198bc6676144eea94c5.png"
+  },
+  {
+    "category": "服装",
+    "name": "找球高手-守卫",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao039.png",
     "localPath": "clothes/outfits/98aa21d8cc940182453252e9915f8857904dd45b.png"
   },
@@ -9962,8 +10190,20 @@
   {
     "category": "服装",
     "name": "找球高手·风暴-赫奇帕奇",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao361.png",
+    "localPath": "clothes/outfits/af4d9f0c144cba1ca5fe95a8c5c3497188468036.png"
+  },
+  {
+    "category": "服装",
+    "name": "找球高手·风暴-赫奇帕奇",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao490.png",
     "localPath": "clothes/outfits/b51ce2bb578694bdb28e0c0905bf5460ff4b2aad.png"
+  },
+  {
+    "category": "服装",
+    "name": "找球高手·风暴-拉文克劳",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao360.png",
+    "localPath": "clothes/outfits/090cfa0d7edec7c744cd81368c848d16f6292d86.png"
   },
   {
     "category": "服装",
@@ -9998,6 +10238,12 @@
   {
     "category": "服装",
     "name": "找球高手·闪电-格兰芬多",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao313.png",
+    "localPath": "clothes/outfits/24ff0a2f1a367a26e7edd137175dcfe87a6cc7a8.png"
+  },
+  {
+    "category": "服装",
+    "name": "找球高手·闪电-格兰芬多",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao441.png",
     "localPath": "clothes/outfits/a026fe961bbb2987f3db9c599817445b792e0f69.png"
   },
@@ -10006,6 +10252,18 @@
     "name": "找球高手·闪电-赫奇帕奇",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao444.png",
     "localPath": "clothes/outfits/b2f09faf8c5b12c59262d32eb72ebcd47f1cff79.png"
+  },
+  {
+    "category": "服装",
+    "name": "找球高手·闪电-拉文克劳",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao314.png",
+    "localPath": "clothes/outfits/28f227a9a87ab201a56eb5f533d859b1cf38fc9e.png"
+  },
+  {
+    "category": "服装",
+    "name": "找球高手·闪电-拉文克劳",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao442.png",
+    "localPath": "clothes/outfits/4a67f8a6a837b4068c6dd2d7d5b655ded53213e5.png"
   },
   {
     "category": "服装",
@@ -10030,6 +10288,12 @@
     "name": "植语轻诉",
     "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nvchangpao_679.png",
     "localPath": "clothes/outfits/4d1024fd05813c21ea283d79948b0017a9e3ff16.png"
+  },
+  {
+    "category": "服装",
+    "name": "植语轻诉·薄荷",
+    "sourceUrl": "https://cbg-hp.res.netease.com/game_res/image/clothes/icon_changpaodian_nanchangpao_558.png",
+    "localPath": "clothes/outfits/2442f63d29dbc597488e10389f04c9a9629c2d34.png"
   },
   {
     "category": "服装",
